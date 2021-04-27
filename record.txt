@@ -1,0 +1,25 @@
+Andre/Alix/100 Bur Oak Ave/647-123-0321/18/50000/profilepic.png/2000
+Pery/Au/99 RainbowRoad/416-675-6969/50/21300/profilepic.png/2000
+Reilly/Barker/50 16th Ave/647-122-1321/17/54000/profilepic.png/3200
+Anindro/Bhattacharya/10 Greensborough St/647-123-1111/80/1000000/anindro.jpg/4000
+Therina/Castor/10 McCowan Rd/416-123-3321/21/570000/profilepic.png/100
+Ben/Chung/13 Stouffville/647-551-1223/19/10000/ben.jpg/750
+Christian/Drikos/1582 Alexander St/647-321-1234/7/6000/profilepic.png/300
+Armen/Galstanian/13 McMaster Rd/647-890-1232/25/100000/profilepic.png/200
+Matthew/Garth/111 Bur Oak/647-123-2222/2/120300/profilepic.png/100000
+Philip/Harker/18 Artistic St/647-461-1234/89/500000000/profilepic.png/153600
+Levina/Indrawan/15 Wonderland Ave/647-555-666/16/100/profilepic.png/7500
+Nicholas/Kwong/18 Unionville Rd/416-589-1222/90/10000/profilepic.png/700
+Justin/Lee/12 16th Ave/647-123-1233/17/150000/profilepic.png/1010
+Zachary/Liu/17 Anderson/647-647-6477/17/13000/profilepic.png/80
+Kelvin/Low/222 Markville/647-551-6666/19/140000/profilepic.png/60000
+Zachary/Miquitta/14 Ieason/647-123-1222/15/120000/profilepic.png/4300
+Sashco/Mistelbacher/12 Markham Rd/647-990-9999/19/12500000/profilepic.png/4300
+Zoe/Ng/10 Stoufville/416-123-1234/20/150000/profilepic.png/2000
+Anthony/Reina/123 Stoufville/416-551-5555/32/230000/profilepic.png/1000
+Victoria/Sephton/12 Anderson/647-121-1221/13/12200/profilepic.png/750
+Cameron/Shih/16 Avenue/647-777-8888/12/200/cam.png/870
+Anthony/Vecchiarelli/10 Mason St/647-127-1669/45/75000/profilepic.png/400
+Payton/Wall/98 Boss St/647-122-1890/50/65000/profilepic.png/300
+Christian/Zambri/12 Hundred/647-1230/10/6900/profilepic.png/200
+Carson/Zhang/12 Misseltow/416-551-1234/60/9000/profilepic.png/65
