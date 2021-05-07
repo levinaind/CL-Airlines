@@ -1,9 +1,0 @@
-Thank you for choosing our software for the CL Airlines Customer Database!
-
-To run the software, use the "DataBaseBtnUser" program and run.
-
-Username and Password Log in is found on the "Employee Login" textfile.
-
-The password to log out is "CarlLevinaBYE"
-
-To find the Customer Record List, go to the textfile titled "record"
